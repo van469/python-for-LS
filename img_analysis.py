@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 
-image_path = r'C:\Users\vgvan\Downloads\image cell.png'
+image_path = r'/res/img_1.tif'
 image1 = cv2.imread(image_path, cv2.IMREAD_GRAYSCALE)
 
 
