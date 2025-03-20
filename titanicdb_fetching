@@ -5,7 +5,7 @@
 import pandas as pd
 
 # load dataset from CSV file
-file = pd.read_csv(r'C:\Users\vgvan\Downloads\titanic.csv - titanic.csv.csv')
+file = pd.read_csv(r'/res/titanic.csv')
 
 file.set_index('PassengerId', inplace=True)
 
