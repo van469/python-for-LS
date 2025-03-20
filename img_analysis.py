@@ -58,7 +58,7 @@ FOR IMAGE 1, THE NUMBER OF CELLS ARE 173
 #Image 2
 
 
-image_path2 = r'C:\Users\vgvan\Downloads\img_2.png'
+image_path2 = r'/res/img_2.tif'
 image2 = cv2.imread(image_path2, cv2.IMREAD_GRAYSCALE)
 
 
